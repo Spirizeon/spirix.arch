@@ -1,7 +1,7 @@
 # Spirix-Linux [Arch]
 ![ss1](https://github.com/Spirizeon/spirix-arch-kde/assets/123345456/8944e97f-ca36-45ad-9628-958376f47a18)
 
-Please follow my blog on ![setting-up-arch](https://zyree.hashnode.dev/setting-up-arch) if you want to get started with setting up arch.
+Please follow my blog on [setting-up-arch](https://zyree.hashnode.dev/setting-up-arch) if you want to get started with setting up arch.
 ### KDE-configs
 + Theme: ![Orchis](https://store.kde.org/p/1458927/)
 + Icons: ![Gruvbox plus](https://github.com/SylEleuth/gruvbox-plus-icon-pack)
